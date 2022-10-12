@@ -1,0 +1,1 @@
+<h1>This is the without blade syntax</h1>
