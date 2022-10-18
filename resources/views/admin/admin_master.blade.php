@@ -53,7 +53,7 @@
                 @yield('admin-main')
                 <!-- End Page-content -->
                
-                @include('admin.body.footer');
+                @include('admin.body.footer')
                 
             </div>
             <!-- end main content-->

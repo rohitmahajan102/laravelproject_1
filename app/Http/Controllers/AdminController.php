@@ -25,7 +25,7 @@ class AdminController extends Controller
 
         $adminDetails = User::find($id);
 
-        return view('admin.admin_profile',compact('adminDetails'));
+        return view('admin.admin_profile_view',compact('adminDetails'));
 
     }// End Method
 }
